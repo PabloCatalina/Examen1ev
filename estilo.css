@@ -1,0 +1,53 @@
+header{
+    background-color: rgb(248, 248, 155);
+}
+
+footer{
+    background-color: rgb(248, 248, 155);
+}
+
+ul.enlaces li{
+    text-decoration-line: none;
+    display: inline;
+    background-color:rgba(197, 201, 206, 0.938);
+    float: left;
+    padding-right: 120px;
+    padding-left:100px ;
+}
+
+li.amarillo{
+    color: yellow;
+}
+
+img.img1{
+    float: right;
+    width: 400px;
+    height: 150px;
+}
+
+img.img2{
+    padding: 5px;
+    padding-left: 100px;
+}
+
+img.img3{
+    padding: 5px;
+    padding-left: 400px;
+}
+
+h3{
+    color: rgb(130, 91, 236);
+}
+
+iframe.maps{
+    padding-left: 580px;
+    padding-top: 5px;
+}
+
+main.contacto{
+    background-color: rgb(130, 229, 233);
+}
+
+p.lista1{
+    padding-right: 500px;
+}
